@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+math_tools/__init__.py
+math_tools/plots.py
+math_tools.egg-info/PKG-INFO
+math_tools.egg-info/SOURCES.txt
+math_tools.egg-info/dependency_links.txt
+math_tools.egg-info/top_level.txt
